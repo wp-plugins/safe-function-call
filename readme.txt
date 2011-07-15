@@ -3,7 +3,7 @@ Contributors: coffee2code
 Donate link: http://coffee2code.com/donate
 Tags: function, template, plugin, error, coffee2code
 Requires at least: 1.5
-Tested up to: 3.2
+Tested up to: 3.2.1
 Stable tag: 1.1.4
 Version: 1.1.4
 
